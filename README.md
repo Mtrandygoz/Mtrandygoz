@@ -1,3 +1,5 @@
+-![Uploading @Mtrandygoz.png…]()
+
 - 👋 Hola yo soy: @Mtrandygoz
 - 👀 Estoy interesada: en tecnologia educativa 
 - 🌱 Actualmente estoy aprendiendo: en tecnologia educativa 
