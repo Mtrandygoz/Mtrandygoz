@@ -1,10 +1,11 @@
-- 👋 hola yo soy: @Mtrandygoz
-- 👀 estoy interesada: en tecnologia educativa 
-- 🌱 actualmente estoy aprendiendo: en tecnologia educativa 
-- 💞️ busco colaborar con: los maestros interesados en aprender 
-- 📫 como contabtarme:  mariaortiz@uninnova.mx
-- 😄 apodo: andy 
-- ⚡ dato curioso: soy maestra en educacion preescolar 
+- 👋 Hola yo soy: @Mtrandygoz
+- 👀 Estoy interesada: en tecnologia educativa 
+- 🌱 Actualmente estoy aprendiendo: en tecnologia educativa 
+- 💞️ Busco colaborar con: los maestros interesados en aprender 
+- 📫 Como contabtarme:  mariaortiz@uninnova.mx
+- 😄 Apodo: andy 
+- ⚡ Dato curioso: soy maestra en educacion preescolar
+- ✨ Algo interesante: imparto la materia de matematicas 
 
 <!---
 Mtrandygoz/Mtrandygoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
