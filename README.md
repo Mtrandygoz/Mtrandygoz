@@ -1,4 +1,6 @@
 
+![@Mtrandygoz](https://github.com/Mtrandygoz/Mtrandygoz/assets/163678317/224c55f6-aee6-46ef-9080-8fab43306fc0) 
+
 
 - 👋 Hola yo soy: @Mtrandygoz
 - 👀 Estoy interesada: en tecnologia educativa 
